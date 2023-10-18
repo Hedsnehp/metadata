@@ -20,7 +20,6 @@ run command : python3 get_metadata.py
 
 Explaination :
 
-When explaining code to an interviewer, it's important to provide a clear and structured explanation of each part of the code. Here's a breakdown of the provided Python code, line by line, with explanations for each section:
 
 1. `import requests` and `import json`:
    - These lines import two Python libraries. `requests` is used for making HTTP requests, and `json` is used for handling JSON data.
