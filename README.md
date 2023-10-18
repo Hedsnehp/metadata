@@ -1,5 +1,5 @@
 Metadata for EC2 instance
-Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides resizable compute capacity in the cloud. Each EC2 instance comes with metadata that you can access to obtain information about the instance. This metadata is available at a well-known URL, which is accessible from within the instance. The base URL for EC2 instance metadata is (http://169.254.169.254/latest/metadata/).
+Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides resizable compute capacity in the cloud. Each EC2 instance comes with metadata that you can access to obtain information about the instance. This metadata is available at a well-known URL, which is accessible from within the instance. The base URL for EC2 instance metadata is (http://169.254.169.254/latest/meta-data/).
 
 Instance Metadata:
 
